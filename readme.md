@@ -143,7 +143,7 @@ X-API-Key: <your-api-key>
 
 ### Clone repository
 ```
-git clone https://github.com/YOUR_USERNAME/ecommerce-api.git
+git clone https://github.com/Revanth-0405/ecommerce-api-main.git
 ```
 cd ecommerce-api
 
